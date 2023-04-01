@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+    <section class="registration-section">
+        <div class="registration-section-container">
+
+            <h1>Register Here</h1>
+            <form action="" method="post">
+                {% csrf_token %}
+                <input class="btn btn-info" type="submit" name="btn-reg" value="Register">
+
+            </form>
+
+        </div>
+    </section>
+{% endblock %}

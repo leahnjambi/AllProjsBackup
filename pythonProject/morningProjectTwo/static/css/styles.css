@@ -1,0 +1,177 @@
+.top{
+    height: 30vh;
+    background-color: rgba(16, 15, 15, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top h1{
+    color: rgba(248, 246, 248, 0.85);
+    font-size: 50px;
+}
+.mid{
+    min-height: 60vh;
+    display: flex;
+}
+.mid-left{
+    width: 30%;
+    background-color: rgba(218, 227, 218, 0.02);
+
+}
+.mid-left ol{
+    list-style-type: name;
+    margin: 20px;
+}
+.mid-right{
+    width: 70%;
+    background-color: rgb(61, 65, 68);
+    padding-left: 20px;
+}
+.footer{
+    height: 10vh;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer h5{
+    color: aliceblue;
+}
+
+.banner-div img{
+    width: 100%;
+    height: 40vh;
+}
+.cards-div{
+    display: flex;
+
+}
+.content-card{
+    width: 25%;
+    padding: 5px;
+}
+.content-card img{
+    width: 100%;
+    height: 30vh;
+}
+.content-card p{
+    width: 100%;
+
+}
+.container-div{
+    height: 100vh;
+    background-color: black;
+    background-image: url("../images/img14.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navigation-div{
+    height: 20vh;
+    display: flex;
+}
+.logo-div{
+    width: 50%;
+    height: 20vh;
+    justify-content: left;
+    display: flex;
+}
+.logo-div img{
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.buttons-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.buttons-div button{
+    height: 40px;
+    align-items: center;
+    margin-left: 10px;
+}
+.buttons-div img{
+    height: 40px;
+    margin-left: 50px;
+    border-radius: 100px;
+
+}
+.wrapper-left-div{
+    width: 50%;
+}
+.h{
+    font-size: 50px;
+    color: white;
+}
+.button1{
+    background-color: orange;
+    width: 80px;
+    height: 5vh;
+    border-radius: 20px;
+    color: white;
+}
+.button2{
+    background-color: #838080;
+    width: 80px;
+    height: 5vh;
+    border-radius: 20px;
+    color: white;
+}
+.p{
+    font-size: 15px;
+    color: white;
+}
+.head{
+    width: 100%;
+    height: 50vh;
+    padding-bottom: 10px;
+}
+.head img{
+    width: 100%;
+    height: 50vh;
+}
+.work{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+}
+.work1{
+    width: 25%;
+    padding: 10px;
+}
+.work1 img{
+    width: 100%;
+    height:30vh ;
+}
+.master{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+
+}
+.master-work{
+    width: 50%;
+    height: 40vh;
+}
+.master-work img{
+    width: 100%;
+    height: 40vh;
+}
+.master-buttons{
+    width: 50%;
+    height: 40vh;
+}
+.button-m{
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+.context{
+    wid
+}
+.h-span{
+    color: aqua;
+}

@@ -1,0 +1,60 @@
+.x{
+    height: 40vh;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 54vw;
+    padding-top: 2px;
+}
+.x img{
+    width: 100%;
+}
+.navbar{
+    padding-left: 20%;
+}
+.collapse{
+    padding-left: 30%;
+}
+.p{
+    justify-content: center;
+}
+
+.p-btn{
+    background-color: orange;
+    color: white;
+    border: unset;
+    border-radius: 10px;
+}
+.p1{
+    margin: auto;
+}
+.row{
+    height: 70vh;
+}
+.footer{
+    background-color: black;
+    padding-top: 20px;
+}
+.footer h5{
+    color: white;
+}
+.footer p{
+    color: white;
+}
+.cal{
+    display: flex;
+    padding-bottom: 20px;
+}
+.h{
+    margin-bottom: 30px;
+    padding-left: 30px;
+
+
+}
+.navbar-nav{
+    color: white;
+}
+.b{
+    margin-left: 7%;
+    margin-right: 7%;
+}

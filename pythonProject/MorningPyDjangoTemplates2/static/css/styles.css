@@ -1,0 +1,10 @@
+.form1{
+    background-size: auto;
+    height: 50vh;
+    width: 100%;
+    background-color:chartreuse;
+}
+.form-group{
+    margin-bottom: 20px;
+
+}
